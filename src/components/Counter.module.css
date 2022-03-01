@@ -21,3 +21,12 @@
   margin: 2rem 0;
   font-weight: bold;
 }
+
+@keyframes husan {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
